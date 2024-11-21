@@ -1,7 +1,7 @@
 <template>
     
     <div>
-        <p class="text-xl font-bold text-blue-600">About us</p>
+        <Mission />
         <meet />
     </div>
 </template>
