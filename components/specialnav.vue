@@ -25,7 +25,7 @@
                         </NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/contact"
+                        <NuxtLink to="/learn"
                             class="block text-lg text-blue-600 transition-all duration-300 hover:text-violet-400 focus-within:outline-0 focus-within:text-violet-400">
                             Learn
                         </NuxtLink>
