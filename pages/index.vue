@@ -1,3 +1,9 @@
+<script setup lang="ts">
+import Hero from '~/components/hero.vue';
+</script>
+
 <template>
-    <p class="text-xl font-bold text-blue-600">home page</p>
+    <div>
+        <Hero />
+    </div>
 </template>

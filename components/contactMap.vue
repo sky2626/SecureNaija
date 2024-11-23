@@ -138,7 +138,7 @@
                                     </div>
                                     <div class="ml-6 grow">
                                         <p class="mb-2 font-bold ">Mobile</p>
-                                        <p class="text-neutral-500"> +91 123456789
+                                        <p class="text-neutral-500"> (+23)47036240023
                                         </p>
                                     </div>
                                 </div>
