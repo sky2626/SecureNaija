@@ -33,7 +33,7 @@
                 </ul>
                 <img src="/public/logo.png" width="80" height="60" alt="logo" class="">
                 <NuxtLink to="/Learn" class="flex gap-4 items-center font-semibold justify-center hover:gap-6 text-blue-600 border-blue-600">
-                    start learning
+                    Start learning
                 </NuxtLink>
             </div>
 
