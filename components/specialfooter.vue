@@ -149,7 +149,7 @@
                     </ul>
                 </div>
 
-                <p class="mt-6 text-sm text-blue-200 lg:mt-0">© Copyright 2021, All Rights Reserved by Postcraft</p>
+                <p class="mt-6 text-sm text-blue-200 lg:mt-0">© Copyright 2021, All Rights Reserved by SecureNaija</p>
             </div>
         </div>
     </div>
