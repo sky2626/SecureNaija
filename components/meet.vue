@@ -7,14 +7,16 @@
                 <div class="bg-white rounded-lg shadow-md p-6 my-6 text-center">
                     <img src="/jalo.png" alt="Team Member 1" class="w-full rounded-full mb-4">
                     <h3 class="text-xl font-semibold mb-2">Mr. Aminu Ibrahim Jalo</h3>
-                    <p class="text-gray-700">Cybersecurity Expert</p>
+                    <p class="text-gray-700">Cybersecurity professinal</p>
+                    <p class="text-gray-700">FE/23/29232921</p>
                 </div>
 
                 <!-- Team Member 2 -->
                 <div class="bg-white rounded-lg shadow-md p-6 my-6 text-center">
                     <img src="/fati.jpg" alt="Team Member 2" class="w-full rounded-full mb-4">
                     <h3 class="text-xl font-semibold mb-2">Mrs. Fatima Bala Tahir </h3>
-                    <p class="text-gray-700">Cybersecurity Expert</p>
+                    <p class="text-gray-700">Cybersecurity professinal</p>
+                    <p class="text-gray-700">FE/23/24221694</p>
                 </div>
             </div>
         </div>
